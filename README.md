@@ -1,8 +1,8 @@
-# Pre-React Requirements for Web Beginners
+# Pre-React Essentials for Web Development Beginners
 
 ## Introduction
 
-As a web beginner, you may feel overwhelmed with the plethora of resources available for learning web development. This comprehensive guide aims to provide you with a clear and beginner-friendly roadmap to the essential pre-React requirements. These requirements will lay a strong foundation for your journey into React development. This guide is suitable for individuals with basic computer literacy and no prior web development experience.
+If you are new to web development and want to learn React, you might be wondering where to start and what to learn first. This guide will help you by providing a clear and beginner-friendly roadmap to the essential pre-React skills. These skills will give you a strong foundation for your React development journey. This guide is designed for people who have basic computer literacy and no prior web development experience.
 
 ## Table of Contents
 
@@ -28,10 +28,10 @@ As a web beginner, you may feel overwhelmed with the plethora of resources avail
 
 5. Introduction to Front-End Libraries and Frameworks
    - What is React?
-   - Advantages of React
+   - Benefits of React
    - React vs. Other Frameworks
 
-6. Essential Concepts before Learning React
+6. Key Concepts before Learning React
    - DOM (Document Object Model)
    - State and Props
    - Components
@@ -55,7 +55,7 @@ As a web beginner, you may feel overwhelmed with the plethora of resources avail
    - Debugging JavaScript
 
 10. Basics of HTTP and APIs
-    - HTTP Verbs (GET, POST, PUT, DELETE)
+    - HTTP Methods (GET, POST, PUT, DELETE)
     - JSON (JavaScript Object Notation)
     - Making API Requests
 
@@ -83,6 +83,6 @@ As a web beginner, you may feel overwhelmed with the plethora of resources avail
 
 ## Conclusion
 
-By following this comprehensive guide, you will gain the necessary pre-React skills to confidently start learning and building applications with React. Remember, learning web development is a journey that requires persistence and practice. Always seek to expand your knowledge by building projects, engaging with the developer community, and staying up-to-date with the latest web development trends.
+This guide has given you a comprehensive overview of the essential pre-React skills that you need to master before learning and building applications with React. Remember, learning web development is a journey that requires persistence and practice. Always seek to expand your knowledge by building projects, engaging with the developer community, and staying up-to-date with the latest web development trends.
 
-Best of luck on your web development journey! Happy coding! 🚀
+I wish you all the best on your web development journey! Happy coding! 🚀
